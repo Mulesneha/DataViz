@@ -28,7 +28,11 @@ A Data Visualization Dashboard is an interactive system used to represent data i
 - **Frontend:** HTML, CSS, JavaScript, Chart.js
 - **Backend:** Python, Flask
 - **Data Processing:** Pandas, CSV module
+
+  
 🌐 Local URL
    http://127.0.0.1:5000/
+
+   
 👩‍💻 Author
 Name: Sneha Mule
